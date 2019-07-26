@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Pradeep
+Build-Jdk: 11.0.1
+Implementation-Title: secureapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.visa.training
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/secureapp
+Created-By: Maven Integration for Eclipse
+
